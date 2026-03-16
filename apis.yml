@@ -1,32 +1,42 @@
 aid: cloud
-name: Cloud
-description: >-
-  Crusoe Clouds REST API can be used to programmatically control resources such
-  as creating Virtual Machines or fetching information about your organization. 
-type: Index
-position: Consumer
-access: 3rd-Party
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
-created: '2025-08-25'
-modified: '2025-08-25'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/cloud/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+name: Crusoe Cloud
+tags:
+  - Cloud
+  - Virtual Machines
+  - Infrastructure
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2025-08-25'
+modified: '2026-03-16'
+position: Consumer
+description: >-
+  Crusoe Cloud's REST API can be used to programmatically control resources
+  such as creating Virtual Machines or fetching information about your
+  organization.
 apis:
   - aid: cloud:cloud
-    name: Cloud
-    description: >-
-      Crusoe Clouds REST API can be used to programmatically control resources
-      such as creating Virtual Machines or fetching information about your
-      organization. 
-    humanURL: ' https://docs.crusoecloud.com/reference/api/'
+    name: Crusoe Cloud API
     tags:
-      - API
+      - Cloud
+      - Virtual Machines
+    humanURL: https://docs.crusoecloud.com/reference/api/
     properties:
-      - type: Documentation
-        url: ' https://docs.crusoecloud.com/reference/api/'
+      - url: https://docs.crusoecloud.com/reference/api/
+        type: Documentation
+    description: >-
+      Crusoe Cloud's REST API provides programmatic access to cloud resources
+      including Virtual Machines and organizational data.
+common:
+  - type: Website
+    url: https://crusoecloud.com/
+  - type: Documentation
+    url: https://docs.crusoecloud.com/
+  - type: Privacy Policy
+    url: https://crusoecloud.com/privacy/
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
+    email: kin@apievangelist.com
+specificationVersion: '0.19'
