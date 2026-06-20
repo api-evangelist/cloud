@@ -13,7 +13,7 @@ description: >-
   the network such as cloud-storage, cloud-cost-management, and
   cloud-native.
 type: Index
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 created: '2024-01-01'
 modified: '2026-04-23'
 specificationVersion: '0.19'
@@ -36,7 +36,7 @@ apis:
       - Hyperscaler
       - IaaS
       - PaaS
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://aws.amazon.com/
     properties:
       - url: https://docs.aws.amazon.com/
@@ -55,7 +55,7 @@ apis:
       - Hyperscaler
       - IaaS
       - PaaS
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://azure.microsoft.com/
     properties:
       - url: https://learn.microsoft.com/en-us/rest/api/azure/
@@ -74,7 +74,7 @@ apis:
       - Hyperscaler
       - IaaS
       - PaaS
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://cloud.google.com/
     properties:
       - url: https://cloud.google.com/apis/docs/overview
@@ -90,7 +90,7 @@ apis:
     tags:
       - Oracle
       - OCI
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.oracle.com/cloud/
     properties:
       - url: https://docs.oracle.com/en-us/iaas/api/
@@ -105,7 +105,7 @@ apis:
     name: IBM Cloud
     tags:
       - IBM
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.ibm.com/cloud
     properties:
       - url: https://cloud.ibm.com/apidocs
@@ -121,7 +121,7 @@ apis:
       - Alibaba
       - Asia
       - Hyperscaler
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.alibabacloud.com/
     properties:
       - url: https://www.alibabacloud.com/help/en/api-references
@@ -136,7 +136,7 @@ apis:
     tags:
       - DigitalOcean
       - Developer Cloud
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.digitalocean.com/
     properties:
       - url: https://docs.digitalocean.com/reference/api/
@@ -150,7 +150,7 @@ apis:
     tags:
       - Akamai
       - Linode
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.linode.com/
     properties:
       - url: https://www.linode.com/docs/api/
@@ -163,7 +163,7 @@ apis:
     name: Vultr
     tags:
       - Vultr
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.vultr.com/
     properties:
       - url: https://www.vultr.com/api/
@@ -177,7 +177,7 @@ apis:
     tags:
       - Europe
       - Hetzner
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.hetzner.com/cloud
     properties:
       - url: https://docs.hetzner.cloud/
@@ -191,7 +191,7 @@ apis:
     tags:
       - Europe
       - Scaleway
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.scaleway.com/
     properties:
       - url: https://www.scaleway.com/en/developers/api/
@@ -206,7 +206,7 @@ apis:
       - Cloudflare
       - Edge
       - Network
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.cloudflare.com/
     properties:
       - url: https://developers.cloudflare.com/api/
@@ -221,7 +221,7 @@ apis:
       - Edge
       - Fastly
       - WebAssembly
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.fastly.com/products/edge-compute
     properties:
       - url: https://www.fastly.com/documentation/reference/api/
@@ -236,7 +236,7 @@ apis:
       - AI
       - CoreWeave
       - GPU
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.coreweave.com/
     properties:
       - url: https://docs.coreweave.com/
@@ -252,7 +252,7 @@ apis:
       - Crusoe
       - GPU
       - Sustainable
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://crusoecloud.com/
     properties:
       - url: https://docs.crusoecloud.com/reference/api/
@@ -267,7 +267,7 @@ apis:
       - AI
       - GPU
       - Lambda
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://lambdalabs.com/service/gpu-cloud
     properties:
       - url: https://cloud.lambdalabs.com/api/v1/docs
