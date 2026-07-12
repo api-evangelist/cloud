@@ -277,6 +277,12 @@ apis:
       instances. The REST API launches and terminates GPU instances,
       manages SSH keys, and lists instance types.
 common:
+  - type: TrustCenter
+    url: security/cloud-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/cloud-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/cloud-domain-security.yml
   - type: Topic
     url: https://apievangelist.com/topics/cloud/
   - type: API Evangelist
