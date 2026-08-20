@@ -35,6 +35,16 @@ tags:
   - Cloud Computing
   - Compute
   - Hyperscaler
+  - Infrastructure-as-a-Service
+  - Infrastructure
+  - Platform-as-a-Service
+  - Public Cloud
+  - Software-as-a-Service
+tags_raw:
+  - Cloud
+  - Cloud Computing
+  - Compute
+  - Hyperscaler
   - IaaS
   - Infrastructure
   - PaaS
@@ -44,6 +54,11 @@ apis:
   - aid: cloud:aws
     name: Amazon Web Services
     tags:
+      - AWS
+      - Hyperscaler
+      - Infrastructure-as-a-Service
+      - Platform-as-a-Service
+    tags_raw:
       - AWS
       - Hyperscaler
       - IaaS
@@ -65,6 +80,11 @@ apis:
     tags:
       - Azure
       - Hyperscaler
+      - Infrastructure-as-a-Service
+      - Platform-as-a-Service
+    tags_raw:
+      - Azure
+      - Hyperscaler
       - IaaS
       - PaaS
     image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
@@ -81,6 +101,12 @@ apis:
   - aid: cloud:gcp
     name: Google Cloud
     tags:
+      - GCP
+      - Google
+      - Hyperscaler
+      - Infrastructure-as-a-Service
+      - Platform-as-a-Service
+    tags_raw:
       - GCP
       - Google
       - Hyperscaler
@@ -245,6 +271,10 @@ apis:
   - aid: cloud:coreweave
     name: CoreWeave
     tags:
+      - Artificial Intelligence
+      - CoreWeave
+      - GPU
+    tags_raw:
       - AI
       - CoreWeave
       - GPU
@@ -260,6 +290,11 @@ apis:
   - aid: cloud:crusoe
     name: Crusoe Cloud
     tags:
+      - Artificial Intelligence
+      - Crusoe
+      - GPU
+      - Sustainable
+    tags_raw:
       - AI
       - Crusoe
       - GPU
@@ -276,6 +311,10 @@ apis:
   - aid: cloud:lambda-labs
     name: Lambda Labs Cloud
     tags:
+      - Artificial Intelligence
+      - GPU
+      - Lambda
+    tags_raw:
       - AI
       - GPU
       - Lambda
