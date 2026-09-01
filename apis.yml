@@ -46,9 +46,9 @@ tags:
   - Cloud Computing
   - Compute
   - Hyperscaler
-  - IaaS
+  - Infrastructure-as-a-Service
   - Infrastructure
-  - PaaS
+  - Platform-as-a-Service
   - Public Cloud
   - Software-as-a-Service
 tags_raw:
@@ -67,8 +67,8 @@ apis:
     tags:
       - AWS
       - Hyperscaler
-      - IaaS
-      - PaaS
+      - Infrastructure-as-a-Service
+      - Platform-as-a-Service
     tags_raw:
       - AWS
       - Hyperscaler
@@ -91,8 +91,8 @@ apis:
     tags:
       - Azure
       - Hyperscaler
-      - IaaS
-      - PaaS
+      - Infrastructure-as-a-Service
+      - Platform-as-a-Service
     tags_raw:
       - Azure
       - Hyperscaler
@@ -115,8 +115,8 @@ apis:
       - GCP
       - Google
       - Hyperscaler
-      - IaaS
-      - PaaS
+      - Infrastructure-as-a-Service
+      - Platform-as-a-Service
     tags_raw:
       - GCP
       - Google
