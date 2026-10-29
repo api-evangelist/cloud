@@ -1,4 +1,4 @@
-# Cloud (cloud)
+# cloud
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,64 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cloud is a topic profile in the API Evangelist Network covering the major public cloud platforms and their APIs. The topic indexes the hyperscalers (Amazon Web Services, Microsoft Azure, Google Cloud, Oracle Cloud, IBM Cloud, Alibaba Cloud) alongside developer-focused alternatives (DigitalOcean, Linode, Vultr, Hetzner, Scaleway), GPU and AI clouds (CoreWeave, Crusoe, Lambda Labs), and edge / network-attached compute (Cloudflare, Fastly Compute).
+## cloud on APIs.io
 
-**APIs.json:** [apis.yml](https://raw.githubusercontent.com/api-evangelist/cloud/refs/heads/main/apis.yml)
+Everything profiled for cloud is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cloud/](https://apis.io/providers/cloud/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index
-- **x-type:** topic
+Not yet rated. See [apis.io/providers/cloud/](https://apis.io/providers/cloud/).
 
-## Tags
+## How this profile is made
 
-Cloud, Cloud Computing, Compute, Hyperscaler, IaaS, Infrastructure, PaaS, Public Cloud, SaaS
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for cloud: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-04-23
+## Open an issue
 
-## Indexed Clouds
-
-### Hyperscalers
-
-- **Amazon Web Services** — [AWS docs](https://docs.aws.amazon.com/)
-- **Microsoft Azure** — [Azure REST APIs](https://learn.microsoft.com/en-us/rest/api/azure/)
-- **Google Cloud** — [GCP APIs](https://cloud.google.com/apis/docs/overview)
-- **Oracle Cloud Infrastructure** — [OCI API docs](https://docs.oracle.com/en-us/iaas/api/)
-- **IBM Cloud** — [IBM Cloud API docs](https://cloud.ibm.com/apidocs)
-- **Alibaba Cloud** — [Alibaba API references](https://www.alibabacloud.com/help/en/api-references)
-
-### Developer Clouds
-
-- **DigitalOcean** — [DO API](https://docs.digitalocean.com/reference/api/)
-- **Linode (Akamai Connected Cloud)** — [Linode API](https://www.linode.com/docs/api/)
-- **Vultr** — [Vultr API](https://www.vultr.com/api/)
-- **Hetzner Cloud** — [Hetzner Cloud API](https://docs.hetzner.cloud/)
-- **Scaleway** — [Scaleway API](https://www.scaleway.com/en/developers/api/)
-
-### Edge and Network Clouds
-
-- **Cloudflare** — [Cloudflare API](https://developers.cloudflare.com/api/)
-- **Fastly Compute** — [Fastly API](https://www.fastly.com/documentation/reference/api/)
-
-### GPU / AI Clouds
-
-- **CoreWeave** — [CoreWeave docs](https://docs.coreweave.com/)
-- **Crusoe Cloud** — [Crusoe API](https://docs.crusoecloud.com/reference/api/)
-- **Lambda Labs** — [Lambda Cloud API](https://cloud.lambdalabs.com/api/v1/docs)
-
-## Common Properties
-
-- [Topic](https://apievangelist.com/topics/cloud/)
-- [API Evangelist](https://apievangelist.com/)
-- [Network](https://network.apievangelist.com/)
-- [GitHub](https://github.com/api-evangelist)
-- Related topic: [cloud-storage](https://github.com/api-evangelist/cloud-storage)
-- Related topic: [cloud-native](https://github.com/api-evangelist/cloud-native)
-
-## Maintainers
-
-- **FN:** Kin Lane
-- **Email:** kinlane@gmail.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cloud/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
